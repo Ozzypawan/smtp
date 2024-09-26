@@ -11,14 +11,14 @@ This is a simple Django application that demonstrates how to send emails using a
 
 ## Technologies Used
 
-- **Python** (3.x)
+- **Python** (3.12)
 - **Django** (5.1.1)
 - **HTML/CSS** for frontend styling
 - **SMTP** for email sending
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12
 - Django 5.1.1
 - Gmail or any other SMTP email service
 - Virtual environment (recommended)
