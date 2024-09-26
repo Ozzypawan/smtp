@@ -28,5 +28,5 @@ This is a simple Django application that demonstrates how to send emails using a
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/smtp-django-app.git
+   git clone https://github.com/ozzypawan/smtp-django-app.git
    cd smtp-django-app
